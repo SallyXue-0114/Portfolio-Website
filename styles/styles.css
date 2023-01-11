@@ -581,9 +581,19 @@ section {
 .contact-content-con .right-contact .i-c-2 :last-child {
   margin-left: 1.5rem;
 }
-.contact-content-con .right-contact .submit-btn {
+.contact-content-con .right-contact button[type=submit] {
+  border-radius: 30px;
+  height: 30px;
+  width: 100px;
+  color: inherit;
+  font-weight: 600;
+  position: relative;
+  border: 1px solid var(--color-secondary);
   display: flex;
-  justify-content: flex-start;
+  align-self: flex-start;
+  align-items: center;
+  overflow: hidden;
+  background-color: var(--color-secondary);
 }
 
 /*Independed components*/
