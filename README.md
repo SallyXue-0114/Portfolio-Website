@@ -1,2 +1,2 @@
 # Portfolio-Website
-Check out my personal website: https://tangerine-basbousa-743ccd.netlify.app/
+Check out my personal website: https://tinyurl.com/sally-portfolio
